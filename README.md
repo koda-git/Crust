@@ -1,3 +1,5 @@
 # Work In Progress
 
-## Currently working on the parser
+# 🥐
+
+todo: parsar, aarch64 asm translation, etc.. 🥱
