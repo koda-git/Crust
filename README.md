@@ -2,4 +2,4 @@
 
 # 🥐
 
-todo: parsar, aarch64 asm translation, etc.. 🥱
+todo: parsar,
