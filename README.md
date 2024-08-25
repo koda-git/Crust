@@ -1,5 +1,5 @@
 # Work In Progress
 
 # 🥐
-
-todo: parsar,
+completed: lexer library
+todo: parsar, cli interface, etc..
