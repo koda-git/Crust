@@ -9,7 +9,6 @@ edition = "2021"
 nom = "7.1.3"
 
 [workspace]
-members = [
-	"compiler/crust_project",
-	"compiler/crust_lexicon",
+members = [ "crates/compiler/crust-lexer",
+	"crates/compiler/crust_parser",
 ]
