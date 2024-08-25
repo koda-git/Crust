@@ -10,5 +10,4 @@ nom = "7.1.3"
 
 [workspace]
 members = [ "crates/compiler/crust-lexer",
-	"crates/compiler/crust_parser",
 ]
